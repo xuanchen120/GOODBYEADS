@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-03 22:44:08（北京时间）
+! Version: 2025-02-04 09:38:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101271
+! Total count: 101297
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -262,6 +262,7 @@
 ||0040.lootynews.com^
 ||0040.luronews.com^
 ||0040.reminews.com^
+||00404850.xyz^
 ||0041.5clo0xmbf.com^
 ||0041.deeginews.com^
 ||0041.gofenews.com^
@@ -2510,6 +2511,7 @@
 ||1165.reminews.com^
 ||1166.reminews.com^
 ||117.254.84.212:3000^
+||1170050225.rsc.cdn77.org^
 ||1172.reminews.com^
 ||1175.luronews.com^
 ||11778562.xyz^
@@ -3272,6 +3274,7 @@
 ||185.149.120.173^
 ||185.193.38.148^
 ||1852.reminews.com^
+||1852210865.rsc.cdn77.org^
 ||1860.lookinews.com^
 ||1862.jemonews.com^
 ||1867.lookinews.com^
@@ -6352,6 +6355,7 @@
 ||3dpassport.com^
 ||3dsemulator.info^
 ||3dviolet.com^
+||3e0605983a.com^
 ||3e0ea78cd5.1f63b94163.com^
 ||3e1898dbbe.com^
 ||3e2a26326d.com^
@@ -9196,6 +9200,7 @@
 ||7354.rookinews.com^
 ||7355.sosqboh85.com^
 ||7356.jemonews.com^
+||73568955.xyz^
 ||7357.jemonews.com^
 ||7358003fe2.com^
 ||7359.jemonews.com^
@@ -9556,6 +9561,7 @@
 ||7850.reminews.com^
 ||7852.gofenews.com^
 ||7853.jemonews.com^
+||78587924.xyz^
 ||7860.jemonews.com^
 ||7862.jemonews.com^
 ||7864.5clo0xmbf.com^
@@ -11155,6 +11161,7 @@
 ||9859.luronews.com^
 ||9862.lootynews.com^
 ||9864.luronews.com^
+||98643801.xyz^
 ||9867.luronews.com^
 ||9869.tegronews.com^
 ||9870.reminews.com^
@@ -19069,6 +19076,7 @@
 ||affectionatedragon.com^
 ||affectionatefurniturehypothesis.com^
 ||affectionatelypart.com^
+||affectionatereply.pro^
 ||affectionavenue.site^
 ||affectsyntaxthousand.com^
 ||affelseaeinera.org^
@@ -19998,6 +20006,7 @@
 ||allureoutlayterrific.com^
 ||allusionappendslippery.com^
 ||allusionfussintervention.com^
+||alluviopurreic.com^
 ||allvideometrika.com^
 ||allworkovergot.com^
 ||allworldinfo4.ru^
@@ -21580,7 +21589,6 @@
 ||aoao11211iis.top^
 ||aoao12011iis.top^
 ||aobtwv.icu^
-||aobyrnjjiqjg.xyz^
 ||aod.echovisuals.com^
 ||aod4.societegenerale.fr^
 ||aoelfb.nanouniverse.jp^
@@ -28721,6 +28729,7 @@
 ||cdhfvrug.xyz^
 ||cdickef.top^
 ||cdilm.cn^
+||cdinmaf.top^
 ||cdipsumf.top^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||cdjhcf.hometogo.es^
@@ -32259,6 +32268,7 @@
 ||crawledgoblet.com^
 ||crawledlikely.com^
 ||crawlerjamie.shop^
+||crawlinglandnameless.com^
 ||craydark.pw^
 ||crayfish.fansubbing.com^
 ||crayfish.portbanecottagelochtay.co.uk^
@@ -32424,6 +32434,7 @@
 ||crodfnyk.xyz^
 ||crokerfielded.shop^
 ||crokerhyke.com^
+||crolerl.com^
 ||cromq.xyz^
 ||croni.site^
 ||croniesobli.com^
@@ -33155,6 +33166,7 @@
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d16saj1xvba76n.cloudfront.net^
 ||d16sobzswqonxq.cloudfront.net^
+||d170971757.com^
 ||d1733r3id7jrw5.cloudfront.net^
 ||d175dtblugd1dn.cloudfront.net^
 ||d17757b88bjr2y.cloudfront.net^
@@ -34231,6 +34243,7 @@
 ||d92eb9bd49.f815e7113a.com^
 ||d93c7fe890.7449c83326.com^
 ||d95a982a89.3a9e260227.com^
+||d95bda138b.com^
 ||d980ed.xyz^
 ||d985a9d2clzq5.cloudfront.net^
 ||d98aab83ee.3103cf02ec.com^
@@ -37279,6 +37292,7 @@
 ||dovictinian.com^
 ||down1oads.com^
 ||downeconomywp.advancedtech.com^
+||download-adblock-bear.com^
 ||download-adblock-zen.com^
 ||download-alert.com^
 ||download-juui-plugin.hismarttv.com^
@@ -37977,6 +37991,7 @@
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzwqfq.alpitour.it^
 ||dzxr711a4yw31.cloudfront.net^
+||dzzdspiu.icu^
 ||e-bannerx.com^
 ||e-cougar.fr^
 ||e-img.hover.to^
@@ -41569,7 +41584,6 @@
 ||fe313be9ba.61598081d6.com^
 ||fe433129dc.com^
 ||fe7qygqi2p2h.com^
-||fe807f067c.3183af8c1d.com^
 ||fe9a1074c9.8d96fe2f01.com^
 ||fe9dc503.xyz^
 ||fea-cfd.simutechgroup.com^
@@ -47864,7 +47878,6 @@
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
 ||hsutav.icu^
-||hsux.com^
 ||hsvchnsvncvvd.com^
 ||hsvmtn.xyz^
 ||hsvrww.plain-me.com^
@@ -50508,6 +50521,7 @@
 ||initiallycoffee.com^
 ||initiallycompetitionunderwear.com^
 ||initiateadvancedhighlyinfo-program.info^
+||initiategunpowder.com^
 ||injcxwircl.com^
 ||injectreunionshorter.com^
 ||injuredjazz.com^
@@ -50590,6 +50604,7 @@
 ||inscribereclaim.com^
 ||inscriptiontinkledecrepit.com^
 ||insectearly.com^
+||insecure-motor.pro^
 ||insecurealbatross.com^
 ||insecurepaint.pro^
 ||insecurepainting.pro^
@@ -51413,6 +51428,7 @@
 ||iwpkp.xyz^
 ||iwpneu.eneba.com^
 ||iwrcoct.info^
+||iwrxsrjl.com^
 ||iwuh.org^
 ||iwursero.top^
 ||iwwznvvqzwqw.com^
@@ -52060,7 +52076,6 @@
 ||jo2f.cheque-cadhoc.fr^
 ||jo4.icu^
 ||joacofiphich.net^
-||joacupoahy.com^
 ||joaglouwulin.com^
 ||joagroamy.com^
 ||joahahewhoo.net^
@@ -52379,6 +52394,7 @@
 ||jsapi.html5.qq.com^
 ||jsapi.qq.com^
 ||jsb.qianzhan.com^
+||jsbergrle.com^
 ||jscdn.online^
 ||jscdn.yieldbird.com^
 ||jscdndel.com^
@@ -52545,6 +52561,7 @@
 ||jvrwil.gabor.de^
 ||jvzlya.benesse.ne.jp^
 ||jwalf.com^
+||jwalkin.com^
 ||jwamnd.com^
 ||jwatera.top^
 ||jwcnjv.xlmoto.eu^
@@ -57042,7 +57059,6 @@
 ||m.gdt.qq.com^
 ||m.giftry.com^
 ||m.go4.io^
-||m.gxwztv.com^
 ||m.happ.social^
 ||m.history.com^
 ||m.historyvault.com^
@@ -62783,6 +62799,7 @@
 ||muddiedbubales.com^
 ||muddyharold.com^
 ||muddyquote.pro^
+||mudrouraung.net^
 ||muellfrei.de^
 ||muendakutyfore.info^
 ||muer.cdn-baidu.fs-sywh.com^
@@ -64124,7 +64141,6 @@
 ||nobodylightenacquaintance.com^
 ||nocaadobefpc.optus.com.au^
 ||nocaudsomt.xyz^
-||nockerlmrs.com^
 ||noclef.com^
 ||nocturnal-employer.pro^
 ||node.aibeacon.jp^
@@ -64140,6 +64156,7 @@
 ||nognoongut.com^
 ||nogxjk.dackonline.se^
 ||nohaxn.damattween.com^
+||nohcutlips.com^
 ||nohezu.xyz^
 ||nohowsankhya.com^
 ||nois5gj.xyz^
@@ -66180,6 +66197,7 @@
 ||oqr4.destinia.in^
 ||oqsttfy.com^
 ||oquftwsabsep.xyz^
+||oqxogfazdz.com^
 ||oqyictvedqfhhd.com^
 ||oracle-netsuite-com-796203850.p04.elqsandbox.com^
 ||oracle.marketingcube.com.au^
@@ -69559,7 +69577,6 @@
 ||pressizer.net^
 ||presssnews.biz^
 ||pressyour.com^
-||prestich.shop^
 ||prestoris.com^
 ||presumablyconfound.com^
 ||presumptuousfunnelinsight.com^
@@ -73025,6 +73042,7 @@
 ||rewards-my.greateasternlife.com^
 ||rewards-sg.greateasternlife.com^
 ||rewardsaffiliates.com^
+||rewarmsmorella.com^
 ||rewearoutwale.shop^
 ||rewindgills.com^
 ||rewindgranulatedspatter.com^
@@ -73257,6 +73275,7 @@
 ||rkapghq.com^
 ||rkatamonju.info^
 ||rkazse.infirmiere.co.jp^
+||rkbqtnqfudt.com^
 ||rkdms.com^
 ||rkdpzcdehop.fun^
 ||rkgbqn.icu^
@@ -74257,6 +74276,7 @@
 ||rzoevr.qvc.de^
 ||rzpjyz.pasona.co.jp^
 ||rzuokcobzru.com^
+||rzxosmhvruyye.com^
 ||rzyosrlajku.com^
 ||rzzhrbbnghoue.com^
 ||rzzlhfx.com^
@@ -77274,7 +77294,6 @@
 ||sharpwavedreinforce.com^
 ||shasogna.com^
 ||shassheld.live^
-||shastujos.com^
 ||shatsalt.com^
 ||shatsoutheshe.net^
 ||shatterconceal.com^
@@ -87256,6 +87275,7 @@
 ||tcgjpib.com^
 ||tchaxv.large.nl^
 ||tcheeter.com^
+||tciqgx.xyz^
 ||tck.fr.transavia.com^
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
@@ -87391,6 +87411,7 @@
 ||teapotsobbing.com^
 ||tearerernest.com^
 ||tearingsinnerprinciples.com^
+||tearoomzebus.top^
 ||tearsskin.cfd^
 ||teaserslamda.top^
 ||teaspoonbrave.com^
@@ -92422,6 +92443,7 @@
 ||trustiseverything.de^
 ||trustisimportant.fun^
 ||trustmaxonline.com^
+||trustvarietywee.com^
 ||trustworthyturnstileboyfriend.com^
 ||trusty-research.com^
 ||trustyable.com^
@@ -92554,6 +92576,7 @@
 ||tu6767109513.cc^
 ||tuagol.gartenmoebel.de^
 ||tuaoza.xyz^
+||tuavzlpzhxs.com^
 ||tubadthy.live^
 ||tubberlo.com^
 ||tubbyconversation.pro^
@@ -94691,6 +94714,7 @@
 ||vhdbohe.com^
 ||vhducnso.com^
 ||vheoggjiqaz.com^
+||vhevbyox.com^
 ||vhkgzudn.com^
 ||vhmewg.edreams.fr^
 ||vhmjci.edreams.co.uk^
@@ -95076,7 +95100,6 @@
 ||vitals.cgddrd.me^
 ||vitaminalcove.com^
 ||vitaminlease.com^
-||vitchanou.com^
 ||vitiumcranker.com^
 ||vitor304apt.com^
 ||vitrealresewn.shop^
@@ -95499,6 +95522,7 @@
 ||vxohkh.laboutiqueofficielle.com^
 ||vxorjza.com^
 ||vxpdfb.xyz^
+||vxpnld.icu^
 ||vxvibc.asahi-kasei.co.jp^
 ||vyebzzbovvorz.top^
 ||vyeysj.foto-mundus.de^
@@ -99984,6 +100008,7 @@
 ||yellowish-yesterday.pro^
 ||yellowishmixture.pro^
 ||yellowjm.com^
+||yellowprotection.com^
 ||yellsurpass.com^
 ||yeni.aomg5bzv7.com^
 ||yequiremuke.com^
@@ -100199,6 +100224,7 @@
 ||ynemmp.goertz.de^
 ||ynfhnbjsl.xyz^
 ||yngnwe.8division.com^
+||yngqqqrrghms.com^
 ||ynhmwyt.com^
 ||ynklendr.online^
 ||ynlfpyeifc.com^
