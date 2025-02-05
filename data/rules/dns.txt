@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-04 20:40:11（北京时间）
+! Version: 2025-02-05 09:39:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101900
+! Total count: 101906
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2087,6 +2087,7 @@
 ||0b0db57b5f.com^
 ||0b383a4924.com^
 ||0b5bd8c4a8.com^
+||0b6e17a630.com^
 ||0b7741a902.com^
 ||0b85c2f9bb.com^
 ||0bb68b4c4a.a65768f777.com^
@@ -4057,6 +4058,7 @@
 ||2441.luronews.com^
 ||2441.rookinews.com^
 ||2442.jemonews.com^
+||2443march2024.com^
 ||2445.lootynews.com^
 ||2445.tegronews.com^
 ||2447march2024.com^
@@ -9989,6 +9991,7 @@
 ||8316.tegronews.com^
 ||8319.tegronews.com^
 ||831e34ade6.ccaa0e51d8.com^
+||831f1e8aa9.com^
 ||831xmyp1fr4i.shop^
 ||8321.gofenews.com^
 ||8321.reminews.com^
@@ -11732,7 +11735,6 @@
 ||a00s.net^
 ||a0152829.xsph.ru^
 ||a03bfd840c.5f63b4542c.com^
-||a058916bc0.com^
 ||a06bbd98194c252.com^
 ||a07e545d99.1704598c25.com^
 ||a07f42f76a.2638879a96.com^
@@ -17855,7 +17857,6 @@
 ||ads.betfair.com^
 ||ads.betweendigital.com^
 ||ads.bidspotter.co.uk^
-||ads.bigchurch.com^
 ||ads.bigfoot.com^
 ||ads.bing.com^
 ||ads.bittorrent.com^
@@ -20476,7 +20477,6 @@
 ||analytic.northernnewengland.aaa.com^
 ||analytic.proxyme.link^
 ||analytic.rapidnewscraze.com^
-||analytic.rocks^
 ||analytic.rollout.io^
 ||analytic.simplyhealth.co.uk^
 ||analytic.texas.aaa.com^
@@ -20498,7 +20498,6 @@
 ||analytics-api.vanceai.com^
 ||analytics-batch.blitz.gg^
 ||analytics-beacon.p.uliza.jp^
-||analytics-cdiscount.com^
 ||analytics-cds.mobiedu.vn^
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
@@ -24099,6 +24098,7 @@
 ||avhjzemp.com^
 ||avhtaapxml.com^
 ||avhxnasqeo.com^
+||aviarymike.com^
 ||aviationbe.com^
 ||avid.actonservice.com^
 ||avidsink.com^
@@ -25300,6 +25300,7 @@
 ||bc84617c73.com^
 ||bc930c99b5.77cdc6d130.com^
 ||bc98ad.xyz^
+||bca10c62ca.com^
 ||bca951904a.0cc29a3ac1.com^
 ||bcaakxxuf.com^
 ||bcanl.bca-autoveiling.nl^
@@ -25775,6 +25776,7 @@
 ||bensonshowd.com^
 ||bento.agoda.com^
 ||bentyquod.shop^
+||benue.site^
 ||benumelan.com^
 ||benzeinlune.com^
 ||beoofo.pairs.lv^
@@ -29274,7 +29276,6 @@
 ||ceilingbruiseslegend.com^
 ||cekgsyc.com^
 ||ceklcxte.com^
-||celaenomash.com^
 ||celeb-ads.com^
 ||celebnewsuggestions.com^
 ||celebratedrighty.com^
@@ -30547,7 +30548,6 @@
 ||cloud.setupad.com^
 ||cloud.trapptechnology.com^
 ||cloud.webtrack.online^
-||cloudad.icu^
 ||cloudads-a.akamaihd.net^
 ||cloudconf.fengkongcloud.com^
 ||clouderrorreporting.googleapis.com^
@@ -31770,7 +31770,6 @@
 ||content.youmiam.com^
 ||content1.pu.nl^
 ||content1.zoom.nl^
-||content2.besteproduct.nl^
 ||content2.kieskeurig.nl^
 ||content2.nrc.nl^
 ||content2.pu.nl^
@@ -32199,6 +32198,7 @@
 ||cowhaits.com^
 ||cowhmc.docmorris.de^
 ||cowm199.com^
+||cowsonbaggara.shop^
 ||cowtpvi.com^
 ||coxgypsine.shop^
 ||coxiesthubble.com^
@@ -32653,6 +32653,7 @@
 ||crunchslipperyperverse.com^
 ||crunchy-tango.dotabuff.com^
 ||cruntn.receno.com^
+||crushingaspirin.com^
 ||crustywainmen.shop^
 ||crutvncf.top^
 ||crvayw.kagunosato.com^
@@ -32871,6 +32872,7 @@
 ||cullemple-motline.com^
 ||culliganwaterco.actonservice.com^
 ||culmedpasses.cam^
+||culptyjhitf.com^
 ||culrosha.net^
 ||cultergoy.com^
 ||culterwhether.com^
@@ -35213,7 +35215,6 @@
 ||date2day.pro^
 ||date4sex.pro^
 ||dateddeed.com^
-||dateing.club^
 ||daten.union-investment.de^
 ||datesnsluts.com^
 ||datessuppressed.com^
@@ -35223,7 +35224,6 @@
 ||datewhisper.life^
 ||datexurlove.com^
 ||datherap.xyz^
-||datiing4you.net^
 ||dating-banners.com^
 ||dating-roo3.site^
 ||dating2cloud.org^
@@ -35729,7 +35729,6 @@
 ||degreebristlesaved.com^
 ||degreewhether.com^
 ||degutu.xyz^
-||deharina.com^
 ||dehimalowbowohe.info^
 ||dehua.ixinfan.com^
 ||deisd5o6v8rgq.cloudfront.net^
@@ -36564,8 +36563,10 @@
 ||dii4.zooplus.ro^
 ||dii4.zooplus.se^
 ||diingsinspiri.com^
+||diingsinspiringtg.com^
 ||dikeaxillas.com^
 ||diken.xyz^
+||dikersballo.shop^
 ||dikhsb.vividseats.com^
 ||dikkoplida.cam^
 ||dilatenine.com^
@@ -37235,7 +37236,6 @@
 ||doathair.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
-||dobrnovosti.com^
 ||doc830ytc7pyp.cloudfront.net^
 ||docfj.cyou^
 ||dochmiiresidue.com^
@@ -37950,6 +37950,7 @@
 ||duimspruer.life^
 ||duiwai.baidu.com^
 ||dujgiq.trendhim.pl^
+||dukerationpecial.com^
 ||dukesubsequent.com^
 ||dukingdraon.com^
 ||dukirliaon.com^
@@ -38262,7 +38263,6 @@
 ||e1110c095c.d057ad0c7b.com^
 ||e15c53a231.com^
 ||e19533834e.com^
-||e1bb62d865.com^
 ||e1cc78a266.f356998def.com^
 ||e1cea7c952.4ffecd1ee4.com^
 ||e1d0eb5d50.da52d550a0.com^
@@ -41539,7 +41539,6 @@
 ||fahmta.polishexpress.co.uk^
 ||fahmta.racefans.net^
 ||fahmta.theaa.com^
-||faiirylove.net^
 ||fail.adr.ec^
 ||failedmengodless.com^
 ||failingaroused.com^
@@ -44787,7 +44786,6 @@
 ||gkyornyu.com^
 ||gkypgw.xyz^
 ||gl-cash.com^
-||gl-product-analytics.com^
 ||gl5g98t0vfjb.panprices.com^
 ||gla63a4l.de^
 ||glabsuckoupy.net^
@@ -45944,6 +45942,7 @@
 ||gpsecureads.com^
 ||gpseyeykuwgn.rocks^
 ||gpsqnl.delsey.com^
+||gpt.throatbulge.com^
 ||gpt.tubetruck.com^
 ||gpukye.holabirdsports.com^
 ||gpynepb.com^
@@ -46224,6 +46223,7 @@
 ||grondrens.com^
 ||gronsirsou.com^
 ||gronsoakoube.net^
+||grookilteepsou.net^
 ||grooksom.com^
 ||groomoub.com^
 ||groompemait.net^
@@ -51506,6 +51506,8 @@
 ||is-log.furunavi.jp^
 ||is.lg.com^
 ||is.snssdk.com^
+||is02041qqp.xyz^
+||is02050qqp.xyz^
 ||isa.aomg5bzv7.com^
 ||isabellagodpointy.com^
 ||isabellahopepancake.com^
@@ -53510,6 +53512,7 @@
 ||kliqz.com^
 ||klixfeed.com^
 ||kljhsanvj.com^
+||klkchits.com^
 ||klkk66.fun^
 ||klktmc.parler.co.jp^
 ||klmainprost.com^
@@ -57016,7 +57019,6 @@
 ||lptyuosfcv.com^
 ||lpuafmkidvm.com^
 ||lpuqtu.propertyfinder.bh^
-||lpx.qantas.com^
 ||lpygsq.dorita.se^
 ||lpyxrp.thewodlife.com.au^
 ||lpzxed.em.com.br^
@@ -60240,6 +60242,7 @@
 ||mendedrefuel.com^
 ||menews.org^
 ||mengaoz.xyz^
+||mengozia.xyz^
 ||meniscisacbut.top^
 ||menispirfly.com^
 ||menkaox.xyz^
@@ -66528,7 +66531,6 @@
 ||oprill.com^
 ||ops.ccmbg.com^
 ||ops.sunpowercorp.com^
-||opskln.com^
 ||opsoomet.net^
 ||opsoudaw.xyz^
 ||opsveda.actonservice.com^
@@ -68374,6 +68376,7 @@
 ||phadia.thermo.com^
 ||phadia.thermofisher.com^
 ||phadsophoogh.net^
+||phahifoobsie.net^
 ||phaibimoa.xyz^
 ||phaidaimpee.xyz^
 ||phaighoosie.com^
@@ -68924,6 +68927,7 @@
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pkudawbkcl.com^
+||pkyffuewwuhnld.com^
 ||pkyjuc.cn^
 ||pl-go.experian.com^
 ||pl-topgal.m-shop.me^
@@ -71485,6 +71489,7 @@
 ||qgumjp.mediatoday.co.kr^
 ||qgutin.crocs.co.kr^
 ||qgxbluhsgad.com^
+||qhaccid.com^
 ||qhatarsl.com^
 ||qhdhtd.com^
 ||qhdtlgthqqovcw.xyz^
@@ -73714,6 +73719,7 @@
 ||rjgsjm.gigameubel.nl^
 ||rjhbjv.xyz^
 ||rjjynf.showcase-tv.com^
+||rjkrefyqrixk.com^
 ||rjlkibvwgxiduq.com^
 ||rjowzlkaz.today^
 ||rjsouj.clubd.co.jp^
@@ -74105,6 +74111,7 @@
 ||rrmlejvyqwzk.top^
 ||rrobbybvvwmzk.top^
 ||rronsep.com^
+||rrptnkao.icu^
 ||rrss.abc.es^
 ||rruvbtb.com^
 ||rrxapb.icu^
@@ -77587,6 +77594,7 @@
 ||shadowjav182.fun^
 ||shadytourdisgusted.com^
 ||shaeian.xyz^
+||shaenphiks.com^
 ||shaggyacquaintanceassessment.com^
 ||shahr-kyd.com^
 ||shaickox.com^
@@ -85368,7 +85376,6 @@
 ||steepto.com^
 ||steepuleltou.xyz^
 ||steeringsunshine.com^
-||steerseejoa.com^
 ||steesamax.com^
 ||steessay.com^
 ||steetchouwu.com^
@@ -91015,7 +91022,6 @@
 ||track.ferrari.com^
 ||track.ferraridealers.com^
 ||track.financialfairness.org.uk^
-||track.fluffyfalcon.com^
 ||track.fxstreet.com^
 ||track.gaconnector.com^
 ||track.gawker.com^
@@ -92812,7 +92818,6 @@
 ||trk.reach.utep.edu^
 ||trk.reavell.com^
 ||trk.recetasprimavera.com^
-||trk.reclameaqui.com.br^
 ||trk.restaurant-hospitality.com^
 ||trk.riverview.org^
 ||trk.robuschi.com^
@@ -96108,6 +96113,7 @@
 ||vyebzzbovvorz.top^
 ||vyeysj.foto-mundus.de^
 ||vyfrxuytzn.com^
+||vyhpoooamxdhmg.com^
 ||vyjwxc.elemis.com^
 ||vyocqq.com^
 ||vyplzy.job-medley.com^
