@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-05 09:39:29（北京时间）
+! Version: 2025-02-05 20:40:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101906
+! Total count: 101891
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16623,7 +16623,6 @@
 ||ad.cgi.cz^
 ||ad.chieuhoa.com^
 ||ad.choiceradio.com^
-||ad.citynews.it^
 ||ad.clicrbs.com.br^
 ||ad.cooks.com^
 ||ad.correioweb.com.br^
@@ -18905,7 +18904,6 @@
 ||adworldnetwork.com^
 ||adworx.be^
 ||adworx.nl^
-||adwstats.com^
 ||adwx6vcj.com^
 ||adx-ad.smart-tv.cn^
 ||adx-bj.anythinktech.com^
@@ -20526,7 +20524,6 @@
 ||analytics-prod2.glance-internal.inmobi.com^
 ||analytics-production.hapyak.com^
 ||analytics-proxy.springboard.com^
-||analytics-script.ad-shield.io^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sdk.yle.fi^
 ||analytics-secure.dollargeneral.com^
@@ -20892,7 +20889,6 @@
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.maxroll.gg^
-||analytics.mbga.jp^
 ||analytics.mc500.info^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
@@ -23168,7 +23164,6 @@
 ||arkfreakyinsufficient.com^
 ||arkharmonious.com^
 ||arkkcu.xyz^
-||arktonightinept.com^
 ||arkunexpectedtrousers.com^
 ||arleavannya.com^
 ||armadillo.axeneo7.qc.ca^
@@ -23330,7 +23325,6 @@
 ||ascc.javquick.com^
 ||asccdn.com^
 ||asce.xyz^
-||ascendeummedia.com^
 ||ascendintegratedmedia.actonservice.com^
 ||ascensionrelativestuck.com^
 ||ascensionunfinished.com^
@@ -24586,6 +24580,7 @@
 ||b.todaytix.com^
 ||b.tondaka.com^
 ||b.topeltof.com^
+||b.trueanthem.com^
 ||b.unjs.com^
 ||b.vidmob.com^
 ||b.w3techs.com^
@@ -38858,7 +38853,6 @@
 ||ediatesuperviso.com^
 ||edibleinvite.com^
 ||edickew.top^
-||ediemidnightzombies.com^
 ||edingrigoguter.com^
 ||edioca.com^
 ||edipsumw.top^
@@ -41409,7 +41403,6 @@
 ||f4611b5cd8.9900149f2a.com^
 ||f4823894ba.com^
 ||f4c9a0fb.xyz^
-||f4cebacks.com^
 ||f5.guesswhatnews.com^
 ||f5.lookinews.com^
 ||f5.track-mv-01.com^
@@ -41522,7 +41515,6 @@
 ||fadszone.com^
 ||fadtetbwsmk.xyz^
 ||fae2ea855a.com^
-||faeotkeyoj.xyz^
 ||faestara.com^
 ||fafmimgubcm.com^
 ||faggapmunost.com^
@@ -49900,6 +49892,7 @@
 ||inconsistencygasdifficult.com^
 ||incontro-veloce.com^
 ||inconveniencemimic.com^
+||incorddrag.com^
 ||incorphishor.com^
 ||increaseplanneddoubtful.com^
 ||increaseprincipal.com^
@@ -51317,7 +51310,6 @@
 ||iopiopiop.net^
 ||iopqct.drogasil.com.br^
 ||iopxiu.wingly.io^
-||iorbcqjykdwiji.com^
 ||ioredi.com^
 ||ios.asktagapp.com^
 ||ios.bugly.qq.com^
@@ -53276,7 +53268,6 @@
 ||key2.actonservice.com^
 ||keyade.alltricks.fr^
 ||keyade.com^
-||keyade.net^
 ||keyade.ooreka.fr^
 ||keyade.uniqlo.com^
 ||keydawnawe.com^
@@ -54355,7 +54346,6 @@
 ||laukaivi.net^
 ||laulme.info^
 ||laulokikailo.net^
-||laumoaphe.com^
 ||launch.aella.app^
 ||launch.meetsaturn.com^
 ||launch.vypr.it^
@@ -65205,6 +65195,7 @@
 ||o626b32etkg6.com^
 ||o68c.sfr.fr^
 ||o6b8iq9faurknd3p.k45z7tagm.com^
+||o6z2a2kq8fatj3ch0x5ow6v82ha2gja8x8c7w6pc5gx2ls0zia7bx1n28b5d.com^
 ||o8.hyatt.com^
 ||o8s.icu^
 ||o8zoz.icu^
@@ -65483,7 +65474,6 @@
 ||odourcowspeculation.com^
 ||odpgponumrw.com^
 ||odqciqdazjuk.com^
-||odtrtadl.com^
 ||odvrjedubvedqs.com^
 ||oebarc.ekosport.at^
 ||oedbml.collage-shop.jp^
@@ -65701,7 +65691,6 @@
 ||ointmentapathetic.com^
 ||ointmentbarely.com^
 ||oiodyx.baldur-garten.de^
-||oipzyrzffum.ovh^
 ||oit4.destinia.com.br^
 ||oitihv.drinks.de^
 ||oiu09.cn^
@@ -65937,6 +65926,7 @@
 ||omjtca.emlakjet.com^
 ||omkxadadsh.com^
 ||omlahpewing.com^
+||ommatht.com^
 ||ommjkomvweg.com^
 ||omn.americanexpress.com^
 ||omn.costumesupercenter.com^
@@ -67056,6 +67046,7 @@
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
+||ouveedaiz.net^
 ||ouvertrenewed.com^
 ||ouvjnb.westernbikeworks.com^
 ||ouvrefth.shop^
@@ -69442,7 +69433,6 @@
 ||poketraff.com^
 ||pokingtrainswriter.com^
 ||pokjhgrs.click^
-||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polads.pro^
 ||polanders.com^
@@ -70620,7 +70610,6 @@
 ||psoroumukr.com^
 ||psothoms.com^
 ||psotudev.com^
-||psoudulto.com^
 ||psougloo.com^
 ||psougrie.com^
 ||psoumoalt.com^
@@ -71171,7 +71160,6 @@
 ||pvnwap.zol.com.cn^
 ||pvoheg.bubbleroom.se^
 ||pvpdbth.xyz^
-||pvrtx.net^
 ||pvrugd.nieruchomosci-online.pl^
 ||pvstat.html5.qq.com^
 ||pvtag.yahoo.co.jp^
@@ -71497,7 +71485,6 @@
 ||qheose.xyz^
 ||qhestrad.com^
 ||qhihoins.com^
-||qhip.com^
 ||qhmlwvnd.com^
 ||qhocciks.com^
 ||qhodog.xyz^
@@ -77260,6 +77247,7 @@
 ||serpentinelay.pro^
 ||serpentreplica.com^
 ||sersh.com^
+||sertingglucid.com^
 ||serv-selectmedia.com^
 ||serv.bvsrv.com^
 ||serv.letudiant.fr^
@@ -88408,7 +88396,6 @@
 ||thautchikrin.xyz^
 ||thautselr.com^
 ||thautsie.net^
-||thauzougroje.com^
 ||thaveksi.net^
 ||thavrils.com^
 ||thawbootsamplitude.com^
@@ -89210,6 +89197,7 @@
 ||tnifdlai.top^
 ||tnincvf1d1jl.de.themoneytizer.com^
 ||tniujy.natura.com.br^
+||tnlixn.icu^
 ||tnmpd.xyz^
 ||tnpads.xyz^
 ||tns.simba.taobao.com^
@@ -93292,7 +93280,6 @@
 ||tv7oehyiet9c7dnw.833enmhob.com^
 ||tvc.biphim.club^
 ||tvcoag.brw.pl^
-||tvfeel.cc^
 ||tvgkatu.icu^
 ||tvgxhvredn.xyz^
 ||tvkaimh.com^
@@ -93555,6 +93542,7 @@
 ||u68t5.icu^
 ||u6u.icu^
 ||u78s.top^
+||u7y.pw^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u803vs7fuhn5w9p5.k45ki53dq.com^
 ||u833ij.com^
@@ -95403,7 +95391,6 @@
 ||videoplaza.tv^
 ||videos-on-demand.link^
 ||videos.adp.ca^
-||videos.beyazperde.com^
 ||videos.personneltoday.com^
 ||videosev.com^
 ||videosprofitnetwork.com^
@@ -97173,7 +97160,6 @@
 ||whaickossu.net^
 ||whaidree.com^
 ||whaidroansee.net^
-||whaiglaid.com^
 ||whaijeezaugh.com^
 ||whaijoorgoo.com^
 ||whainger.com^
@@ -97343,7 +97329,6 @@
 ||whollmagged.com^
 ||whollyneedy.com^
 ||whomcomposescientific.com^
-||whompothessy.com^
 ||whomspreadbeep.com^
 ||whomsudsikaxu.com^
 ||whoobaumpairto.xyz^
@@ -97559,6 +97544,7 @@
 ||wintjaywolf.org^
 ||wintrck.com^
 ||wintricksbanner.googlepages.com^
+||winzessolicit.com^
 ||wioboy.xyz^
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
@@ -100914,7 +100900,6 @@
 ||your.vistro.ptvgroup.com^
 ||your.visum.ptvgroup.com^
 ||your.xserver.ptvgroup.com^
-||youractualfeed.com^
 ||youradexchange.com^
 ||yourbestdateever.com^
 ||yourbestperfectdates.life^
