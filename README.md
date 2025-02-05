@@ -78,7 +78,7 @@ DNS拦截规则数量: 101891
 
 [Block Ads! Adblock test](https://blockads.fivefilters.org/)
 
-[Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
+[Ad Blocker Test](https://adblock.turtlecute.org/)
 
 <h2 id="d">💬 完善项目</h2>
 
