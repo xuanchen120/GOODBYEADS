@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-09 09:42:55（北京时间）
+! Version: 2025-02-09 20:36:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102057
+! Total count: 102059
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -27434,6 +27434,7 @@
 ||brookredheadpowerfully.com^
 ||brookssa.com^
 ||broredir1s.site^
+||brornaeq.com^
 ||brostraffic.com^
 ||brotelkioway.website^
 ||brotherhoodonionbuttons.com^
@@ -37503,6 +37504,7 @@
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
+||doubleclick.host^
 ||doubleclick.ne.jp^
 ||doubleclick.net^
 ||doublemax.net^
@@ -43453,6 +43455,7 @@
 ||frztrk.beaute-test.com^
 ||frztrk.netmums.com^
 ||fs-client-logger.herokuapp.com^
+||fs-loader.com^
 ||fsalfrwdr.com^
 ||fsbozl.dillards.com^
 ||fscareers.epoise.com^
@@ -46966,7 +46969,6 @@
 ||harvester.cms.markiza.sk^
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
-||hasdarot.info^
 ||hasdjksndjk.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
@@ -65586,6 +65588,7 @@
 ||odeecmoothaith.net^
 ||odemonstrat.pro^
 ||odepcf.modetour.com^
+||odinmak.top^
 ||odintsures.click^
 ||odipsumk.top^
 ||odjdpy.jobware.de^
@@ -97033,7 +97036,6 @@
 ||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
-||webpsts.com^
 ||webpush.adjux.com^
 ||webpush.pushub.net^
 ||webpush.reachyield.com^
