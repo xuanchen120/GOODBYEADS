@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-10 09:40:34（北京时间）
+! Version: 2025-02-10 20:40:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102067
+! Total count: 102072
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -17876,7 +17876,6 @@
 ||ads.boylesports.com^
 ||ads.brabys.com^
 ||ads.bulldogcpi.com^
-||ads.bumq.com^
 ||ads.businessstyle.vn^
 ||ads.cadovn.biz^
 ||ads.canalblog.com^
@@ -23059,6 +23058,7 @@
 ||aqnnysd.com^
 ||aqorez.yamo.bio^
 ||aqouep.aquaphor.ru^
+||aqowgoascdb.com^
 ||aqptziligoqn.com^
 ||aqr.actonservice.com^
 ||aqspcbz.com^
@@ -34410,6 +34410,7 @@
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d514187948.fde8de16e0.com^
 ||d52a6b131d.com^
+||d5465f9d11.com^
 ||d55875dd70.03db0d5d14.com^
 ||d56cfcfcab.com^
 ||d58353af9f.f9a77ca6b8.com^
@@ -37505,7 +37506,6 @@
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
-||doubleclick.host^
 ||doubleclick.ne.jp^
 ||doubleclick.net^
 ||doublemax.net^
@@ -47393,6 +47393,7 @@
 ||hesoorda.com^
 ||hespe-bmq.com^
 ||hesprh.sony.jp^
+||hesqvflhk.com^
 ||hesterinoc.info^
 ||hestutche.com^
 ||hesudsuzoa.com^
@@ -52449,6 +52450,7 @@
 ||jln3.cl-brands.com^
 ||jln3.clstudios.com^
 ||jlnyti.mugo.com.tr^
+||jlouexxsb.com^
 ||jlovoiqtgarh.com^
 ||jltfqoxyhytayy.com^
 ||jltwxisa.icu^
@@ -55621,7 +55623,6 @@
 ||link.trycircle.com^
 ||link.trymida.com^
 ||link.trytaptab.com^
-||link.tubi.tv^
 ||link.tul.io^
 ||link.tumblbug.com^
 ||link.tupinambaenergia.com.br^
@@ -57451,6 +57452,7 @@
 ||lynx.simpleparish.com^
 ||lyonsdown.actonservice.com^
 ||lyonthrill.com^
+||lyrecomemumuen.com^
 ||lyremaneldest.com^
 ||lyretul.top^
 ||lyricalattorneyexplorer.com^
@@ -62038,6 +62040,7 @@
 ||mgid.com^
 ||mgidskix.top^
 ||mgixgn.wittchen.com^
+||mgladthereisso.com^
 ||mgmuye.xyz^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||mgptul.finson.com^
@@ -63355,6 +63358,7 @@
 ||murkymouse.online^
 ||murolwsi.com^
 ||murphydrying.com^
+||murriesforsee.shop^
 ||musclesadmonishment.com^
 ||musclesprefacelie.com^
 ||muscularcopiedgulp.com^
@@ -64403,6 +64407,7 @@
 ||nfuwpyx.com^
 ||nfwebminer.com^
 ||nfyowjhcgb.com^
+||nfzaajfktztp.com^
 ||ng-vn-notice.gameitop.com^
 ||ng.aomg5bzv7.com^
 ||ng.virgul.com^
@@ -64705,6 +64710,7 @@
 ||nonfictionrobustchastise.com^
 ||nonfictiontickle.com^
 ||nongrayrestis.com^
+||nonguds.com^
 ||nonjurysundang.top^
 ||nonoossol.xyz^
 ||nonprofit.aon.com^
@@ -69569,7 +69575,6 @@
 ||poketraff.com^
 ||pokingtrainswriter.com^
 ||pokjhgrs.click^
-||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polads.pro^
 ||polanders.com^
@@ -70016,7 +70021,6 @@
 ||preanalytication.com^
 ||prearmskabiki.com^
 ||prebid-*.rubiconproject.com^
-||prebid-cache.ifunny.co^
 ||prebid-dev.reworldmediafactory.com^
 ||prebid-log.getpublica.com^
 ||prebid-server.newsbreak.com^
@@ -77675,7 +77679,6 @@
 ||sg01.rayjump.com^
 ||sg3.notarize.com^
 ||sgad.site^
-||sgad.surfsnow.jp^
 ||sgadkc.xyz^
 ||sgali-mcs.byteoversea.com^
 ||sgcwoe.xyz^
@@ -77907,6 +77910,7 @@
 ||shark.rockyourlife.de^
 ||sharkbleed.com^
 ||sharkedmarque.com^
+||sharkfirelife.com^
 ||sharks.vn^
 ||sharondemurer.shop^
 ||sharpofferlinks.com^
@@ -88798,6 +88802,7 @@
 ||threefortressfork.com^
 ||threeinvincible.com^
 ||threepi.de^
+||threewoodslose.com^
 ||threkuth.com^
 ||threrlak.com^
 ||thresholdunusual.com^
@@ -97293,6 +97298,7 @@
 ||wfcs.lol^
 ||wffbdim.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
+||wfhbfjllmkqmd.com^
 ||wfijsc.xyz^
 ||wfjslie.top^
 ||wfmcgd.msccruzeiros.com.br^
@@ -100750,7 +100756,6 @@
 ||yeah.qq.com^
 ||yeah1publishing.com^
 ||yealnk.com^
-||yeanedeyewear.click^
 ||yearbookhobblespinal.com^
 ||yearlingexert.com^
 ||yearnstocking.com^
