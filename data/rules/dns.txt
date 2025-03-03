@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-02 20:37:12（北京时间）
+! Version: 2025-03-03 09:45:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108881
+! Total count: 108891
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15490,6 +15490,7 @@
 ||4970.gofenews.com^
 ||4970.reminews.com^
 ||49706204.xyz^
+||49709796.xyz^
 ||4971.gofenews.com^
 ||4971156.notify6.com^
 ||4972.gofenews.com^
@@ -17418,6 +17419,7 @@
 ||72075223.xyz^
 ||7210.reminews.com^
 ||7212.reminews.com^
+||72123581.xyz^
 ||7214.luronews.com^
 ||7215.guesswhatnews.com^
 ||721ffc3ec5.com^
@@ -19753,6 +19755,7 @@
 ||9c5203d24f.bca10c62ca.com^
 ||9c93c6787b.a9ae7df45f.com^
 ||9cbj41a5.de^
+||9cd4abb9e0.com^
 ||9cd76b4462bb.com^
 ||9d2cca15e4.com^
 ||9d5ed16be3.2f2bef3deb.com^
@@ -24410,7 +24413,6 @@
 ||abnegationdenoteimprobable.com^
 ||abnegationsemicirclereproduce.com^
 ||abniorant.com^
-||abnormalearphones.com^
 ||abnormalgently.com^
 ||abnormalmansfield.com^
 ||abnormalrebel.com^
@@ -28068,7 +28070,6 @@
 ||akisinn.me^
 ||akisinn.site^
 ||akjorcnawqp.com^
-||akjoyjkjbajkv.top^
 ||akjoyjkrwaaab.top^
 ||akjoyjkrwalaa.top^
 ||akjoyjkrwaraj.top^
@@ -41160,6 +41161,7 @@
 ||cxrptu.danland.dk^
 ||cxsaev.stratiaskin.com^
 ||cxsh.cn.com^
+||cxuapz.xyz^
 ||cxvyk.com^
 ||cxwisl.jetstereo.com^
 ||cxy88.friok.com^
@@ -44418,6 +44420,7 @@
 ||difhil.icu^
 ||difice-milton.com^
 ||difyferukentasp.com^
+||difzhd.icu^
 ||dig.bdurl.net^
 ||dig.lianjia.com^
 ||dig.qbao.com^
@@ -46183,6 +46186,7 @@
 ||dzbkl37t8az8q.cloudfront.net^
 ||dzcx04lyk9hjp.cloudfront.net^
 ||dzdgfp673c1p0.cloudfront.net^
+||dzdmvnegsov.com^
 ||dzdnffs.xyz^
 ||dzeaqmeuaql.com^
 ||dzforp.buscape.com.br^
@@ -54700,6 +54704,7 @@
 ||hardcoretrayversion.com^
 ||harderjuniormisty.com^
 ||hardinet.actonservice.com^
+||hardnessanything.com^
 ||hardnesscorkimmature.com^
 ||hardynylon.com^
 ||hare.felix-schmid.de^
@@ -70532,7 +70537,6 @@
 ||mousebusters.odencat.com^
 ||mouseflow.com^
 ||mouseforgerycondition.com^
-||mousheen.net^
 ||moustachepoke.com^
 ||mouthdistance.bond^
 ||movad.de^
@@ -73859,6 +73863,7 @@
 ||onmantineer.com^
 ||onmarketer.net^
 ||onmlkjiion.carte-gr.total.fr^
+||onmoxskatoxx.com^
 ||onmstgh.icu^
 ||onoamoutsaitsy.net^
 ||onopolicycr.xyz^
@@ -73931,7 +73936,6 @@
 ||oopoawee.xyz^
 ||oopsiksaicki.com^
 ||oopt.norauto.es^
-||oopursie.com^
 ||ooqbml.tac-school.co.jp^
 ||oortezaidib.com^
 ||oortoofeelt.xyz^
@@ -74147,6 +74151,7 @@
 ||oqbaxgolrabl.com^
 ||oqbimz.aviasales.ru^
 ||oqddkgixmqhovv.xyz^
+||oqea.cn^
 ||oqejupqb.xyz^
 ||oqgrax.sissy-boy.com^
 ||oqidne.itaka.pl^
@@ -76401,6 +76406,7 @@
 ||pjtshn.floraprima.de^
 ||pjtxmd.epool.ru^
 ||pjvartonsbewand.info^
+||pjwk.cn^
 ||pk0grqf29.com^
 ||pk1u.melanielyne.com^
 ||pk910324e.com^
@@ -76425,6 +76431,7 @@
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pkudawbkcl.com^
+||pkvjrb.icu^
 ||pkyffuewwuhnld.com^
 ||pkyjuc.cn^
 ||pl-go.experian.com^
@@ -79871,7 +79878,6 @@
 ||real-feedback.toros.daum.net^
 ||realbi.ru^
 ||realbusiness.americanexpress.com^
-||realcastmedia.com^
 ||realclick.vn^
 ||realclix.com^
 ||realcomm.actonservice.com^
@@ -85431,6 +85437,7 @@
 ||sickbedjibboom.com^
 ||sicklybates.com^
 ||sicklypercussivecoordinate.com^
+||sicksarrish.top^
 ||siconoi.com^
 ||sicouthautso.net^
 ||sid.nordstrom.com^
@@ -85585,6 +85592,7 @@
 ||sinkfaster.com^
 ||sinkingswap.com^
 ||sinkou.tireshop.com.br^
+||sinkrersf.com^
 ||sinlovewiththemo.info^
 ||sinmo.chasecenter.com^
 ||sinmufar.com^
@@ -99467,7 +99475,6 @@
 ||trafficswarm.com^
 ||traffictraders.com^
 ||trafficz.com^
-||traffikw.com^
 ||traffiq.com^
 ||traffmgnt.com^
 ||traffmgnt.name^
@@ -100693,6 +100700,7 @@
 ||tzbirdcod.com^
 ||tzegilo.com^
 ||tzgurwizule3.app.cardahealth.com^
+||tzhrmcnidxqwrb.com^
 ||tzimmescantara.com^
 ||tzovkp.aboutyou.at^
 ||tztmqvga.icu^
@@ -102197,6 +102205,7 @@
 ||vax-boost.com^
 ||vax-now.com^
 ||vaxoovos.net^
+||vaykjwn.top^
 ||vazshojt.com^
 ||vazulp.graniph.com^
 ||vazypteke.pro^
@@ -102290,6 +102299,7 @@
 ||vegetationartcocoa.com^
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
+||veideasandcome.org^
 ||veih8bee.xhcdn.com^
 ||veilengh.com^
 ||veille-referencement.com^
