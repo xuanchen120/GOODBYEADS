@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-05 20:42:11（北京时间）
+! Version: 2025-03-06 09:44:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107546
+! Total count: 107566
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14964,6 +14964,7 @@
 ||5255.lookinews.com^
 ||5257.gofenews.com^
 ||5257.reminews.com^
+||52588314e4.com^
 ||5259.gofenews.com^
 ||525a819997.2e00ea441d.com^
 ||5260.reminews.com^
@@ -17247,6 +17248,7 @@
 ||8506.reminews.com^
 ||8507.selornews.com^
 ||8508.reminews.com^
+||85132058.xyz^
 ||8514.jemonews.com^
 ||8514.reminews.com^
 ||8518.reminews.com^
@@ -23616,7 +23618,6 @@
 ||ad.belleeau.jp^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -25237,6 +25238,7 @@
 ||ads2004.treiberupdate.de^
 ||ads2550.bid^
 ||ads2ads.net^
+||ads2native.com^
 ||ads3-adnow.com^
 ||ads3-normal-hl.zijieapi.com^
 ||ads3-normal-lf.zijieapi.com^
@@ -27091,7 +27093,6 @@
 ||alwhichhereallyw.com^
 ||alwingulla.com^
 ||alxbgo.com^
-||alxfgnews.pro^
 ||alxsite.com^
 ||alysson.de^
 ||alzlwkeavrlw.top^
@@ -30413,6 +30414,7 @@
 ||aspirationprogrammecontains.com^
 ||asqconn.com^
 ||asqpniwvxea.com^
+||asrelaterconde.org^
 ||asrety.com^
 ||asricewaterhouseo.com^
 ||asrop.xyz^
@@ -30941,6 +30943,7 @@
 ||auxml.com^
 ||av6fm8zw2cvz.furucombo.app^
 ||avads.co.uk^
+||avads.live^
 ||avads.net^
 ||avai.actonservice.com^
 ||avalancheofnews.com^
@@ -36150,6 +36153,7 @@
 ||cgidskif.top^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
+||cgqhtithixi.com^
 ||cgqkhc.trendyol.com^
 ||cgsisl.owllabs.com^
 ||cgskys.xyz^
@@ -37271,6 +37275,7 @@
 ||clp-mms.cloudpro.co.uk^
 ||clpeachcod.com^
 ||clqjyw.xyz^
+||clrmoccyveuh.com^
 ||clrpdhptoddatj49.pro^
 ||clrstm.com^
 ||clrt.ai^
@@ -42994,6 +42999,7 @@
 ||diench.com^
 ||diendh.xyz^
 ||dietschoolvirtually.com^
+||dietythraves.top^
 ||differencenaturalistfoam.com^
 ||differenchi.pro^
 ||differentevidence.com^
@@ -43880,6 +43886,7 @@
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
+||doastaiwhouwouy.com^
 ||doathair.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
@@ -44019,6 +44026,7 @@
 ||doormantdoormantbumpyinvincible.com^
 ||doostaiy.com^
 ||doostozoa.net^
+||dooteewoodi.net^
 ||dopansearor.com^
 ||dope.autos^
 ||dopecurldizzy.com^
@@ -46842,6 +46850,7 @@
 ||epsashoofil.net^
 ||epsilondelta.co^
 ||epsuphoa.xyz^
+||eptoufeebimeesh.net^
 ||eptougry.net^
 ||epu.sh^
 ||eputysolomon.com^
@@ -48576,7 +48585,6 @@
 ||fglrgt.ruggable.com^
 ||fgmaal.u-canshop.jp^
 ||fgn-plausible.serverable.com^
-||fgn.cdn.serverable.com/common/images/nfr2ie0nd1s9^
 ||fgnfpnae.icu^
 ||fgoqnva.com^
 ||fgosob.unhcr.it^
@@ -49613,6 +49621,7 @@
 ||fpctraffic2.com^
 ||fpelfyeesuoivy.com^
 ||fpfbbn.xyz^
+||fpfhtr.icu^
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
 ||fpgonuk.icu^
@@ -49859,6 +49868,7 @@
 ||frpa-vpdpwc.icu^
 ||frqbff.hedleyandbennett.com^
 ||frstlead.com^
+||frthpp.icu^
 ||frtya.com^
 ||frtyd.com^
 ||frtyl.com^
@@ -50607,6 +50617,7 @@
 ||geewedurisou.net^
 ||gefkkw.cyberport.de^
 ||geggeewrossle.com^
+||geghlyrecomemu.com^
 ||geinkroll.com^
 ||geiybze.com^
 ||gejusherstertithap.info^
@@ -51192,6 +51203,7 @@
 ||gjc.gjirafa.com^
 ||gjhjjhgc.cn^
 ||gjigle.com^
+||gjinuqg.top^
 ||gjjskhdnm.top^
 ||gjkkdashb4.fun^
 ||gjljde.kathmandu.co.nz^
@@ -53828,6 +53840,7 @@
 ||hiddenseet.com^
 ||hidemembershipprofane.com^
 ||hidgfbsitnc.fun^
+||hidgttxnces.com^
 ||hidingenious.com^
 ||hidjoi.perfumesclub.com^
 ||hierarchytotal.com^
@@ -58096,6 +58109,7 @@
 ||ixsgoy.getpenta.com^
 ||ixstng.cn^
 ||ixtbiwi-jf.world^
+||ixtu.cn^
 ||ixtzad.fetch.co.uk^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
@@ -60836,6 +60850,7 @@
 ||learn.wow.wowforbusiness.com^
 ||learning.hmhco.com^
 ||learningcontainscaterpillar.com^
+||learningcontractionpolling.com^
 ||learnmore.protiviti.com^
 ||learntinga.com^
 ||leasemiracle.com^
@@ -69384,6 +69399,7 @@
 ||muellfrei.de^
 ||muendakutyfore.info^
 ||muer.cdn-baidu.fs-sywh.com^
+||mufaommef.com^
 ||mufflercypress.com^
 ||mugapi.lazzarionline.com^
 ||mugglesskyfte.com^
@@ -70019,6 +70035,7 @@
 ||ncubadmavfp.com^
 ||ncukankingwith.info^
 ||ncvsbz.bonds.com.au^
+||ncvwahrct.com^
 ||ncvwnp.icu^
 ||ncwabgl.com^
 ||ncx2.voyage-prive.it^
@@ -70524,6 +70541,7 @@
 ||nicholasparcel.com^
 ||nichools.com^
 ||nickdeliverfugitive.com^
+||nickdotarie.shop^
 ||nickeleavesdropping.com^
 ||nickelphantomability.com^
 ||nickhel.com^
@@ -72457,6 +72475,7 @@
 ||onwasrv.com^
 ||onxatutor.com^
 ||onxokvvevwop.xyz^
+||onykekwbyyita.com^
 ||oo.ooshop.com^
 ||oo00.biz^
 ||oo3z.icu^
@@ -76363,6 +76382,7 @@
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||projekt678.de^
+||projetpunce.shop^
 ||prolatecyclus.com^
 ||proll.esexa.online^
 ||proll.manrec.cc^
@@ -79849,7 +79869,6 @@
 ||rogligh.ehrydnmdoe.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
-||roi.ediscom.it^
 ||roi.soulapp.cn^
 ||roia.biz^
 ||roiapp.net^
@@ -83847,6 +83866,7 @@
 ||shirtbladder.com^
 ||shirtclumsy.com^
 ||shitcustody.com^
+||shitsoojacm.net^
 ||shitsowhoort.net^
 ||shitucka.net^
 ||shiverdepartmentclinging.com^
@@ -99816,7 +99836,6 @@
 ||uncoverarching.com^
 ||uncrobator.com^
 ||uncrownarmenic.com^
-||uncrudenickle.com^
 ||unddeliv.com^
 ||under2given.com^
 ||underaccredited.com^
@@ -103844,6 +103863,7 @@
 ||wwads.cn^
 ||wwaeljajwvlrw.top^
 ||wwaeljamkvzwr.top^
+||wwainferrara.com^
 ||wwaowwonthco.com^
 ||wwarvlezkjev.top^
 ||wwarvlorkeww.top^
