@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-07 09:44:59（北京时间）
+! Version: 2025-03-07 20:41:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107677
+! Total count: 107680
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -17512,6 +17512,7 @@
 ||89263907.xyz^
 ||8928.gofenews.com^
 ||8929.gofenews.com^
+||89296649.xyz^
 ||892e84a94b.e94377cdef.com^
 ||893.jemonews.com^
 ||8931.reminews.com^
@@ -25476,7 +25477,6 @@
 ||adsniper.ru^
 ||adsoftware.com^
 ||adsoftware.top^
-||adsoldier.com^
 ||adsolut.in^
 ||adsolution.imtt.qq.com^
 ||adsonar.com^
@@ -30862,6 +30862,7 @@
 ||aungudie.com^
 ||aunsagoa.xyz^
 ||aunsaick.com^
+||aunsoocmunoan.net^
 ||aunstollarinets.com^
 ||auntiealtogethertumor.com^
 ||auntieminiature.com^
@@ -32686,7 +32687,6 @@
 ||bestfreecounterstat.com^
 ||bestfuckapps.com^
 ||bestfunnyads.com^
-||bestialvehemence.com^
 ||bestill.help.no^
 ||bestinfo.bluetrustloans.com^
 ||bestinterestings.com^
@@ -33016,7 +33016,6 @@
 ||bioatpej.xyz^
 ||bioces.com^
 ||biographyaudition.com^
-||biokrfvnvs.com^
 ||biolw.cloud^
 ||biophysicsgroup.actonservice.com^
 ||biopsyheadless.com^
@@ -53413,6 +53412,7 @@
 ||hausasisters.com^
 ||hautoust.com^
 ||hauufhgezl.com^
+||hauwoopauy.net^
 ||hauzdj.quellogiusto.it^
 ||haveameet.com^
 ||haveflat.com^
@@ -59984,7 +59984,6 @@
 ||kntodvofiyjjl.xyz^
 ||knubletupgrow.shop^
 ||knuinws.icu^
-||knurleddeblock.guru^
 ||knutenegros.pro^
 ||knymhv.ariat.com^
 ||knzmrw.infojobs.net^
@@ -60129,7 +60128,6 @@
 ||krazil.com^
 ||krbulhb.com^
 ||krgoad.mauboussin.fr^
-||krhmerjhbsjng.xyz^
 ||krigialinters.top^
 ||krikului.com^
 ||krill.far.site^
@@ -63006,6 +63004,7 @@
 ||logs.ironsrc.mobi^
 ||logs.mezmo.com^
 ||logs.naukri.com^
+||logs.nebulahoroscope.com^
 ||logs.netflix.com^
 ||logs.ntvplus.tv^
 ||logs.openbank.com^
@@ -65891,7 +65890,6 @@
 ||massivetreadsuperior.com^
 ||massiveunnecessarygram.com^
 ||master-shopify-tracker.s3.amazonaws.com^
-||mastercasc.top^
 ||masterconn.qq.com^
 ||masterfornews.com^
 ||mastermind.com^
@@ -73290,6 +73288,7 @@
 ||overcobalionom.com^
 ||overcomecheck.com^
 ||overcooked-construction.com^
+||overcoythuoc.com^
 ||overcrowdsillyturret.com^
 ||overdates.com^
 ||overdrowzeeon.com^
@@ -76002,7 +76001,6 @@
 ||pqrede.fiatprofessional.com^
 ||pqvpcahwuvfo.life^
 ||pqvzlltzxbs.global^
-||pqwxlogigvdd.xyz^
 ||pqzjki.cn^
 ||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
@@ -79693,6 +79691,7 @@
 ||ricewaterhou.xyz^
 ||rich.qq.com^
 ||rich1x.xyz^
+||richeighth.shop^
 ||richestplacid.com^
 ||richh.cn^
 ||richinfo.co^
@@ -84241,6 +84240,7 @@
 ||silpharapidly.com^
 ||silphidbilati.com^
 ||silsautsacmo.com^
+||silurehoghood.com^
 ||silver-pen.pro^
 ||silveraddition.pro^
 ||silverfish.djordjevanjek.com^
@@ -92477,7 +92477,6 @@
 ||swift.unovy.net^
 ||swift.vanuitjehuis.nl^
 ||swiftlybloodlesseconomic.com^
-||swiftmining.win^
 ||swiftstreamhub.com^
 ||swiggermahwa.com^
 ||swilmib.top^
@@ -94698,6 +94697,7 @@
 ||thursejokers.top^
 ||thusenteringhypocrisy.com^
 ||thusmumid.live^
+||thustilpn.com^
 ||thuthoock.net^
 ||thyinegutnic.com^
 ||thymeycimnel.com^
@@ -95472,6 +95472,7 @@
 ||totemcash.com^
 ||totemsplurgy.top^
 ||totentacruelor.com^
+||totesnobis.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||toto.pandasuite.io^
@@ -100681,6 +100682,7 @@
 ||uz-analysis.akamaized.net^
 ||uz-kqtecqs.space^
 ||uzauxaursachoky.net^
+||uzbeknisse.top^
 ||uzd1.madeindesign.com^
 ||uzdhsjuhrw.com^
 ||uzevnf.realtystore.com^
@@ -107357,6 +107359,7 @@
 ||zjbfke.centerparcs.be^
 ||zjd-nmdong.xyz^
 ||zjdac.com^
+||zjen.cn^
 ||zjhlsx.exxpozed.de^
 ||zjhswy.comeup.com.tr^
 ||zjib0.icu^
