@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-09 20:31:12（北京时间）
+! Version: 2025-03-10 09:21:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108114
+! Total count: 108152
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4621,6 +4621,7 @@
 ||1437953666.rsc.cdn77.org^
 ||1438.gofenews.com^
 ||1438.reminews.com^
+||14381834.xyz^
 ||1438976156.recolution.de^
 ||1439.gofenews.com^
 ||1439.reminews.com^
@@ -17017,6 +17018,7 @@
 ||8158.lookinews.com^
 ||8159323a9c.d064229052.com^
 ||8162.reminews.com^
+||8162f6c343.com^
 ||8169.reminews.com^
 ||8170.lookinews.com^
 ||8171.luronews.com^
@@ -17427,6 +17429,7 @@
 ||87c96e5e53.f74f316370.com^
 ||87cc51d649.com^
 ||87f81e4343.d7ea5cbf87.com^
+||87fa4b7e.b-cdn.net^
 ||87uq.com^
 ||88.208.46.222^
 ||88.42.84.136^
@@ -26453,6 +26456,7 @@
 ||aic-ngfts.lge.com^
 ||aicipc.actonservice.com^
 ||aickeebsi.com^
+||aicpeyeph.com^
 ||aid.video.qq.com^
 ||aidata.io^
 ||aidc.barcodesgroup.com^
@@ -33060,6 +33064,7 @@
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
 ||bird.webitizevoice.com^
+||birderpulas.top^
 ||birdnavy.com^
 ||birlingtriced.top^
 ||biroacitups.net^
@@ -35227,6 +35232,7 @@
 ||cap-cap-pop.com^
 ||capaciousdrewreligion.com^
 ||capawhile.com^
+||capefast.com^
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
@@ -40362,6 +40368,7 @@
 ||d1sqvt36mg3t1b.cloudfront.net^
 ||d1stxfv94hrhia.cloudfront.net^
 ||d1sytkg9v37f5q.cloudfront.net^
+||d1t1fxgxazche8.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
 ||d1t4ekjh9ps4ob.cloudfront.net^
 ||d1t671k72j9pxc.cloudfront.net^
@@ -42898,6 +42905,7 @@
 ||dexterrobbins.cf^
 ||dextersolutions.actonservice.com^
 ||deymalaise.com^
+||dezna.online^
 ||df.huya.com^
 ||df.tanx.com^
 ||df0pmigc8xs70.cloudfront.net^
@@ -44714,6 +44722,7 @@
 ||dullfruitful.com^
 ||dulojet.com^
 ||dulosismispage.top^
+||dumae.site^
 ||dumay.site^
 ||dumbpop.com^
 ||dumedia.ru^
@@ -45688,6 +45697,7 @@
 ||eeco.xyz^
 ||eedijm.bakeca.it^
 ||eedsaung.net^
+||eedshenwhent.com^
 ||eedsiwhussiy.net^
 ||eeedbcd951.914e9c7d17.com^
 ||eeee1d61e9.39aecdfbc0.com^
@@ -46224,6 +46234,7 @@
 ||eluviabattler.com^
 ||elvirassb.com^
 ||elxont.com^
+||elytronkantele.shop^
 ||elyxvt.wilsonamplifiers.com^
 ||em-email.thermofisher.com^
 ||em-info2.thermofisher.com^
@@ -48199,6 +48210,7 @@
 ||fadslimz.com^
 ||fadszone.com^
 ||fadtetbwsmk.xyz^
+||faduz.xyz^
 ||fae2ea855a.com^
 ||fafmimgubcm.com^
 ||fafvvt.icu^
@@ -49829,6 +49841,7 @@
 ||fqghykp.cn^
 ||fqhnnknhufocejx.com^
 ||fqirjff.com^
+||fqnhjt.icu^
 ||fqppgv.cheapoair.com^
 ||fqqcfpka-ui.top^
 ||fqtadpehoqx.com^
@@ -50205,6 +50218,7 @@
 ||fusion.sydsvenskan.se^
 ||fusionads.net^
 ||fusionquest.com^
+||fusionslygaeid.shop^
 ||fusiontechnology.arrow.com^
 ||fusoidactuate.com^
 ||fusrv.com^
@@ -58005,6 +58019,7 @@
 ||iqmetrics.wiwo.de^
 ||iqmetrics.zeit.de^
 ||iqmlcia.com^
+||iqmxgfepqufhuvx.xyz^
 ||iqpizza.openapp.link^
 ||iqpqoamhyccih.xyz^
 ||iqtest365.online^
@@ -61171,6 +61186,7 @@
 ||leisurelypizzascarlet.com^
 ||lekaleregoldfor.com^
 ||lekfso.hitohana.tokyo^
+||lelczf.icu^
 ||lelesidesukbeing.info^
 ||lelrouxoay.com^
 ||lelruftoutufoux.net^
@@ -61260,6 +61276,7 @@
 ||letterslamp.online^
 ||letterwolves.com^
 ||leukemiaruns.com^
+||leveesmicker.top^
 ||level.18huhu.com^
 ||level.badlandgame.com^
 ||levementum.actonservice.com^
@@ -62582,6 +62599,7 @@
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
 ||llama.whatcha.io^
+||llbcnpehbm.com^
 ||llbonxcqltulds.xyz^
 ||llet787bww.com^
 ||lljultmdl.xyz^
@@ -62630,6 +62648,7 @@
 ||lnalzll.top^
 ||lnbdbdo.com^
 ||lndonclkds.com^
+||lnevgpyqncwpj.life^
 ||lnfncvjaweewi.tech^
 ||lnhamforma.info^
 ||lnifdlal.top^
@@ -63767,6 +63786,7 @@
 ||lustasserted.com^
 ||lusupodum.com^
 ||lutachechu.pro^
+||lutn.cn^
 ||lutoorgourgi.com^
 ||luumhi.whatonearthcatalog.com^
 ||luuming.com^
@@ -69129,6 +69149,7 @@
 ||mobwars.kano.link^
 ||mobwin.app.qq.com^
 ||mocean.mobi^
+||mockagemaestra.top^
 ||mockingcard.com^
 ||mockingchuckled.com^
 ||mockingsubtlecrimpycrimpy.com^
@@ -70352,6 +70373,7 @@
 ||ndct-data.video.iqiyi.com^
 ||ndcywq.ullapopken.fr^
 ||nddpynonxw.xyz^
+||ndeedtheriverwas.com^
 ||ndegj3peoh.com^
 ||ndejhe73jslaw093.com^
 ||ndenthaitingsho.com^
@@ -73100,6 +73122,7 @@
 ||orcjagpox.com^
 ||orclrul.com^
 ||orcnakokt.com^
+||orcpfawzuvfe.com^
 ||ordbng.extra.com.br^
 ||ordciqczaox.com^
 ||orderlydividepawn.com^
@@ -73497,6 +73520,7 @@
 ||outstantewq.info^
 ||outtimburrtor.com^
 ||outtunova.com^
+||outwalkenvying.shop^
 ||outwallastron.top^
 ||outwavedowny.shop^
 ||outwhirlipedeer.com^
@@ -76530,6 +76554,7 @@
 ||prism.singapouring.com^
 ||prism.tramclockmunich.com^
 ||prisma-tr.prismamedia.com^
+||prismlacers.top^
 ||prismtest.epoise.com^
 ||prisonfirmlyswallow.com^
 ||prisonrecollectionecstasy.com^
@@ -78120,6 +78145,7 @@
 ||qrubv.buzz^
 ||qrvsnt.citygrounds.com^
 ||qrwcss.xyz^
+||qrwoayzjyblwb.top^
 ||qrzjmjrblqmez.top^
 ||qrzlaatf.xyz^
 ||qsahny.smartbuyglasses.dk^
@@ -78158,6 +78184,7 @@
 ||quaintmembershipprobably.com^
 ||quaintorgic.digital^
 ||quaizoa.xyz^
+||qualaroo.com^
 ||qualiclicks.com^
 ||qualification2.fun^
 ||qualificationsomehow.com^
@@ -84228,6 +84255,7 @@
 ||shelfcandler.shop^
 ||shelfoka.com^
 ||shell-recharge.tupinambaenergia.com.br^
+||shelluiqy.com^
 ||shelourdoals.net^
 ||sheltermilligrammillions.com^
 ||shemalemodelstube.com/fun^
@@ -84260,6 +84288,7 @@
 ||shiftclang.com^
 ||shifthare.com^
 ||shiftwholly.com^
+||shikarsfrecket.top^
 ||shikroux.net^
 ||shiksinsagoa.net^
 ||shilavew.com^
@@ -84466,6 +84495,7 @@
 ||siazlw.cetroloja.com.br^
 ||siberiabecrush.com^
 ||sibilantsuccess.com^
+||sibohqoc.com^
 ||sicas.ikea.com^
 ||sicas.ikea.net^
 ||sicilywring.com^
@@ -90145,6 +90175,7 @@
 ||starchild.odencat.com^
 ||starchy-foundation.pro^
 ||stardomcoit.com^
+||staretstepa.shop^
 ||starffa.com^
 ||starfish.taskflow.io^
 ||stargamesaffiliate.com^
@@ -100368,6 +100399,7 @@
 ||unfairgenelullaby.com^
 ||unfamiiliardate.net^
 ||unfiledbunkum.shop^
+||unfitlyspeirs.com^
 ||unforgivableado.com^
 ||unforgivablefrozen.com^
 ||unfortunatelydestroyedfuse.com^
@@ -100525,6 +100557,7 @@
 ||unsuccessfultesttubepeerless.com^
 ||untackreviler.com^
 ||untd.com^
+||untidy-log.pro^
 ||untidyseparatelyintroduce.com^
 ||untiedecide.com^
 ||untilfamilythrone.com^
@@ -102348,6 +102381,7 @@
 ||vyeysj.foto-mundus.de^
 ||vyfrxuytzn.com^
 ||vyhpoooamxdhmg.com^
+||vyhxugizkaktg.tech^
 ||vyjwxc.elemis.com^
 ||vyocqq.com^
 ||vyplzy.job-medley.com^
@@ -102367,6 +102401,7 @@
 ||vzoogvcarot.com^
 ||vzoqn.buzz^
 ||vzynem.lamporochljus.se^
+||vzzcxrfujjtjg.tech^
 ||w-gbttkri.global^
 ||w-profiling.simplii.com^
 ||w.cnews.qq.com^
@@ -105814,6 +105849,7 @@
 ||xeoprwhhiuig.xyz^
 ||xertive.com^
 ||xeryt111.fun^
+||xesjonlq.com^
 ||xevaix.com^
 ||xevzdl.xyz^
 ||xewihp.bayut.com^
@@ -106817,6 +106853,7 @@
 ||yapforestsfairfax.com^
 ||yapunderstandsounding.com^
 ||yapzoa.xyz^
+||yaquinaaminity.shop^
 ||yardianalytics.com^
 ||yardr.net^
 ||yarlnk.com^
@@ -107859,6 +107896,7 @@
 ||zmyopn.babadotop.com.br^
 ||zmysashrep.com^
 ||zmzkyj.agrieuro.com^
+||zmzwloelraaoz.top^
 ||zncbitr.com^
 ||zndsssp.dangbei.net^
 ||zng.com^
